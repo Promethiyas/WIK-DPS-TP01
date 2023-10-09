@@ -9,10 +9,17 @@ Allez dans votre terminal, déplacez-vous dans le répertoire de votre choix et 
 git clone https://github.com/Promethiyas/WIK-DPS-TP01.git
 ```
 
-Une fois fait vous pouvez vous déplacer dans le dossier ***\\WIK-DPS-TP01\src\\***:
+Deplacez vous dans le dossier ***\WIK-DPS-TP01*** et installez le dépendances
 
 ```bash
-cd .\WIK-DPS-TP01\src\
+cd \WIK-DPS-TP01\
+npm install
+```
+
+Une fois fait vous pouvez vous déplacer dans le dossier ***\\src\\***:
+
+```bash
+cd .\src\
 ```
 
 Puis compilez le code avec:
